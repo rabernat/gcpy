@@ -1,3 +1,6 @@
+**NOTE** - This initial package has been officially adopted by the GEOS-Chem Support Team. Further development post-July, 2017 is tracked at [this bitbucket repository](https://bitbucket.org/gcst/gcpy/).
+
+
 GCPy
 ====
 
