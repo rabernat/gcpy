@@ -25,7 +25,7 @@ installation.
     `moving to only support Python 3 <http://www.python3statement.org/>`_ in the
     near future without any backwards compatibility. The differences between
     Python 2 and Python 3 are mostly superficial, but large enough that it is
-    cumbersome to mantain large codebases that are compatible with both. With the
+    cumbersome to maintain large codebases that are compatible with both. With the
     exception of a handful of packages you may encounter which do not support
     Python 3, there is no compelling reason to use Python 2 today.
 
